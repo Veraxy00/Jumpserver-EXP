@@ -1,6 +1,8 @@
 # Jumpserver-EXP
 JumpServer远程代码执行漏洞检测利用脚本
 
+漏洞地址：https://github.com/jumpserver/jumpserver/issues/5533
+
 ![演示动图](https://github.com/Veraxy00/Jumpserver-EXP/blob/main/JumpserverEXP.gif)
 
 ## 用法
